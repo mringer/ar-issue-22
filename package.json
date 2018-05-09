@@ -1,0 +1,12 @@
+{
+  "name": "ar-issue-22",
+  "version": "1.0.0",
+  "description": "test case for https://github.com/thebigredgeek/apollo-resolvers/issues/22",
+  "main": "index.ts",
+  "author": "Matthew Ringer",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-resolvers": "1.1.0",
+    "typescript": "^2.8.3"
+  }
+}
